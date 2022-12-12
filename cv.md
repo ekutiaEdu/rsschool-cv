@@ -1,6 +1,6 @@
 # **_Egor Kutilov_**
 
-*****
+
 ## _Contacts_:
 
 Tel: +48 500 144 081
@@ -52,7 +52,8 @@ Master’s degree, Computational Mathematics and Cybernetics
 *****
 ## _Languages_:
 
-English: Intermediate - Upper-Intermediate (B1 - B2) 
+English: Intermediate - Upper-Intermediate (B1 - B2)
+
 Russian: Native 
 
 *****
